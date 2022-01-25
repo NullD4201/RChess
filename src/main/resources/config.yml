@@ -1,0 +1,29 @@
+timer: 60
+bossbar: true
+field:
+  world: 'world'
+  y: 0
+  x1: 0
+  z1: 0
+  x2: 7
+  z2: 7
+board:
+  world: 'world'
+  y: 0
+  x1: 8
+  z1: 8
+  x2: 15
+  z2: 15
+teleport:
+  world: 'world'
+  x: 0
+  y: 0
+  z: 0
+  yaw: 0
+  p: 0
+role:
+  rook: true
+  bishop: true
+  knight: true
+  pawn: true
+spectator: []

@@ -1,0 +1,12 @@
+name: RChess
+version: '${project.version}'
+main: nulld.commision.RChess.Main
+api-version: 1.16
+prefix: RChess
+authors: [ Null_D ]
+description: Risbean Chess PVP Plugin
+
+commands:
+  chess:
+  체스판:
+  cgame:
